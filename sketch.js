@@ -223,7 +223,7 @@ function mouseInCanvas(){
 function mousePressed(){
   //check if the background music is not already playing
   if (!backgroundMusic.isPlaying()){
-  //if the music is not playing, start playing it
+    //if the music is not playing, start playing it
     backgroundMusic.play();
   }
   // If height/2 is greater than mouseY, it will create shooting stars
