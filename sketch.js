@@ -67,8 +67,6 @@ function preload(){
 function setup() {
   //Create a canvas that fits within the width available and height available
   createCanvas(windowWidth, windowHeight);
-  //Start playing the background music
-  backgroundMusic.play();
   //Set the volume of the music to be half
   backgroundMusic.setVolume(0.5);
   //Initialise the ladybug at the center of the canvas with a size of 25
@@ -223,6 +221,11 @@ function mouseInCanvas(){
 }
 //function to when mouse is pressed on the canvas
 function mousePressed(){
+  //check if the background music is not already playing
+  if (!backgroundMusic.isPlaying()){
+  //if the music is not playing, start playing it
+    backgroundMusic.play();
+  }
   // If height/2 is greater than mouseY, it will create shooting stars
   if (height/2 > mouseY){
     shootingStars.push(new Star(mouseX, mouseY));
