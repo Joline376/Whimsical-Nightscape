@@ -13,4 +13,3 @@ Xwj. (n.d). Fireflies and Mountains. OpenProcessing. Retrieved from    https://o
 Yousafi, T. (n.d). Shooting Stars. OpenProcessing. Retrieved from https://openprocessing.org/sketch/806793
 April. (n.d). Particles in Flow Field. OpenProcessing. Retrieved from https://openprocessing.org/sketch/2277722
 The Coding Train. (n.d). Youtube Channel. Retrieved from https://www.youtube.com/@TheCodingTrain
-![image](https://github.com/user-attachments/assets/bfc14862-f0d1-4ed8-a2c0-f73a72902e69)
