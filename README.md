@@ -9,7 +9,7 @@ The mouse movement represents the movement of a ladybug flying around. Additiona
 Monro, G. (2009). Emergence and Generative Art. Leonardo (Oxford), 42(5), 476–477. https://direct.mit.edu/leon/article-abstract/42/5/476/45455/Emergence-and-Generative-Art?redirectedFrom=fulltext
 Lukrembo. (n.d). Night. FreeToUse. Retrieved from https://freetouse.com/music/lukrembo/night
 Son. (n.d). Flowers. P5.js Editor. Retrieved from https://editor.p5js.org/son/sketches/SkJJxG2Cm
-Xwj. (n.d). Fireflies and Mountains. OpenProcessing. Retrieved from    https://openprocessing.org/sketch/2248686
+Xwj. (n.d). Fireflies and Mountains. OpenProcessing. Retrieved from https://openprocessing.org/sketch/2248686
 Yousafi, T. (n.d). Shooting Stars. OpenProcessing. Retrieved from https://openprocessing.org/sketch/806793
 April. (n.d). Particles in Flow Field. OpenProcessing. Retrieved from https://openprocessing.org/sketch/2277722
 The Coding Train. (n.d). Youtube Channel. Retrieved from https://www.youtube.com/@TheCodingTrain
