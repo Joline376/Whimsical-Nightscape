@@ -5,6 +5,7 @@ The mouse movement represents the movement of a ladybug flying around. Additiona
 
 
 References:
+
 Monro, G. (2009). Emergence and Generative Art. Leonardo (Oxford), 42(5), 476–477. https://direct.mit.edu/leon/article-abstract/42/5/476/45455/Emergence-and-Generative-Art?redirectedFrom=fulltext
 
 Lukrembo. (n.d). Night. FreeToUse. Retrieved from https://freetouse.com/music/lukrembo/night
